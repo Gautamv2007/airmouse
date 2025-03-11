@@ -7,10 +7,10 @@ Required Libraries
 
 To implement this project, the following libraries are needed:
 
-1. ESP32-BLE-Mouse - GitHub Link
-2. Adafruit MPU6050 - GitHub Link
-3. Adafruit BusIO (Dependency) - GitHub Link
-4. Adafruit Unified Sensor Driver (Dependency) - GitHub Link
+1. ESP32-BLE-Mouse - https://github.com/sirfragles/ESP32-BLE-Mouse
+2. Adafruit MPU6050 - https://github.com/adafruit/Adafruit_MPU6050
+3. Adafruit BusIO (Dependency) - https://github.com/adafruit/Adafruit_BusIO
+4. Adafruit Unified Sensor Driver (Dependency) - https://github.com/adafruit/Adafruit_Sensor
 
 The first two libraries are directly included in the code, while the latter two are required dependencies.
 Enhancements & Features
