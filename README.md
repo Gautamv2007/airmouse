@@ -13,8 +13,9 @@ To implement this project, the following libraries are needed:
 4. Adafruit Unified Sensor Driver (Dependency) - https://github.com/adafruit/Adafruit_Sensor
 
 The first two libraries are directly included in the code, while the latter two are required dependencies.
-Enhancements & Features
 
+
+Enhancements & Features
 1. Kalman Filtering: We have implemented Kalman filtering to smooth noisy sensor data, enhancing accuracy by        predicting and correcting measurements.
 
 2. Button Controls: The device features four buttons for left click, right click, scroll up, and scroll down, making navigation effortless.
