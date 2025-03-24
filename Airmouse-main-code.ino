@@ -61,7 +61,6 @@ void loop() {
       bleMouse.click(MOUSE_RIGHT);
       delay(150);  // Reduced delay for better response
     }
-
     if (!digitalRead(SCROLLBUTTON) && g.gyro.y > 3) {  // Higher threshold for natural scrolling
       Serial.println("Scroll down");
       bleMouse.move(0, 0, -2);
